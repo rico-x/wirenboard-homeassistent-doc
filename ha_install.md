@@ -232,3 +232,4 @@ Home Assistant будет доступен по адресу: ``` http://IP-ва
 
 В дальшейшем можно будет прикрутить ссылку в веб интерфейсе Home Assistant для прямого доступа в конфигуратор.
 
+Настройку оповещений в телеграмм можно посмотреть ![тут](https://github.com/rico-x/wirenboard-homeassistent-doc/blob/main/Watchtower_tg.md)
